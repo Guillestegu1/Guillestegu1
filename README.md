@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Hora      | Lunes        | Martes       | Miercoles    | Jueves       | Viernes      |   |   |   |   |
-|-----------|--------------|--------------|--------------|--------------|--------------|---|---|---|---|
-| 1:00-2:00 | ING SIS      | ING SIS      | ING SIS      | ING SIS      | ING SIS      |   |   |   |   |
-| 2:00-3:00 | PATR. DISEÑO | PATR. DISEÑO | PATR. DISEÑO | PATR. DISEÑO | PATR. DISEÑO |   |   |   |   |
-| 3:00-4:00 | INN. TECNO.  | INN. TECNO.  | INN. TECNO.  | INN. TECNO.  | INN. TECNO.  |   |   |   |   |
-| 4:00-5:00 | REDES        | REDES        | REDES        | REDES        |              |   |   |   |   |
-| 5:00-6:00 | SIS. PROGRA. | SIS. PROGRA. | SIS. PROGRA. | SIS. PROGRA. |              |   |   |   |   |
-| 6:00-7:00 | APP MOVILES  | APP MOVILES  | APP MOVILES  | APP MOVILES  | APP MOVILES  |   |   |   |   |
-|           |              |              |              |              |              |   |   |   |   |
-|           |              |              |              |              |              |   |   |   |   |
-|           |              |              |              |              |              |   |   |   |   |
+| Hora      | Lunes        | Martes       | Miercoles    | Jueves       | Viernes      |
+|-----------|--------------|--------------|--------------|--------------|--------------|
+| 1:00-2:00 | ING SIS      | ING SIS      | ING SIS      | ING SIS      | ING SIS      |
+| 2:00-3:00 | PATR. DISEÑO | PATR. DISEÑO | PATR. DISEÑO | PATR. DISEÑO | PATR. DISEÑO |
+| 3:00-4:00 | INN. TECNO.  | INN. TECNO.  | INN. TECNO.  | INN. TECNO.  | INN. TECNO.  |
+| 4:00-5:00 | REDES        | REDES        | REDES        | REDES        |              |
+| 5:00-6:00 | SIS. PROGRA. | SIS. PROGRA. | SIS. PROGRA. | SIS. PROGRA. |              |
+| 6:00-7:00 | APP MOVILES  | APP MOVILES  | APP MOVILES  | APP MOVILES  | APP MOVILES  |
