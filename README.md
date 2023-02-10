@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 | Hora      | Lunes        | Martes       | Miercoles    | Jueves       | Viernes      |
 |-----------|--------------|--------------|--------------|--------------|--------------|
 | 1:00-2:00 | ING SIS      | ING SIS      | ING SIS      | ING SIS      | ING SIS      |
