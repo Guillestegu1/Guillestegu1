@@ -1,3 +1,6 @@
+Relay.
+![image](https://user-images.githubusercontent.com/124220995/226087564-698682b6-c9af-482f-af9e-22ba48cc0de3.png)
+
 es un dispositivo interruptor electrónico que conmuta el paso de la electricidad cuando una pequeña corriente es aplicada en sus terminales de control. Los SSR consisten en un sensor que responde a una entrada apropiada (señal de control), un interruptor electrónico de estado sólido que conmuta el circuito de carga, y un mecanismo de acoplamiento a partir de la señal de control que activa este interruptor sin partes mecánicas. El relé puede estar diseñado para conmutar corriente alterna o continua. Hace la misma función que el relé electromecánico, pero sin partes móviles.
 
 Parámetros
